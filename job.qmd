@@ -1,0 +1,19 @@
+---
+title: "Jobapplication"
+format: html
+---
+
+# What is the broad topic/question we are interested in? What is the specific question we will answer? Useful reference:
+
+Broad topic: race and employment in United States
+
+Specific topic : black vs white call-backs
+
+# Preceptor table is the smallest table such that if no data are missing its easy to answer your specific question.
+
+Preceptor table:
+  Units: individuals
+  (Potential) Outcomes: call-back if black, call-back if white
+  casual/predictive :
+  covariates: "race", sex, Zipcode
+  Treatment: black name on resume versus white name on resume
